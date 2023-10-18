@@ -11,7 +11,7 @@
 
 
 
-## About The Project
+## Sobre
 
  ㅤ
 ⚠️ Entendo que o código possui falhas que o impediriam de funcionar adequadamente em todos os cenários realistas, porém não pretendo manutenir esse projeto, pois ele não possui finalidade prática alguma além de demonstrar minhas habilidades para meu tutor. Portanto esse repositório será arquivado. 🗃️
@@ -20,10 +20,11 @@
 📖 O objetivo principal desse repositório é para que outros estudantes que estão se familiarizando com programação analisem meu código, porém pretendo fazê-lo com uma arquitetura robusta futuramente em uma tecnologia que me sinto confortável. ✍️
 ㅤ
 
-## Built With
+## Feito com
 
-☕ Feito com JDK 17 + 🪶 Apache Maven
+☕ JDK 17 <br/>
+🪶 Apache Maven
 
-## Authors
+## Autor
 
 * **Alan** - *SWE Undergraduate*
